@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-# Version 1.1.0
+# Version 5.1
 import os
 import sys
 import webbrowser
 from platform import system
 from time import sleep
-
 from core import HackingToolsCollection
 from tools.anonsurf import AnonSurfTools
 from tools.ddos import DDOSTools
@@ -37,7 +36,7 @@ logo = """\033[33m
   ███    █▀      ███    █▀  ████████▀    ███   ▀█▀ █▀    ▀█   █▀    ████████▀          ▄████▀    ▀██████▀   ▀██████▀  █████▄▄██ 
                                          ▀                                                                            ▀                             
                                     \033[34m[✔] https://github.com/Oneexploit/hackingtool-v5.1   [✔]
-                                    \033[34m[✔]            Version 1.1.0               [✔]
+                                    \033[34m[✔]            Version 5.1                 [✔]
                                     \033[91m[X] Please Don't Use For illegal Activity  [X]
 \033[97m """
 
