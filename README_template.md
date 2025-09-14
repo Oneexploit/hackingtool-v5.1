@@ -23,11 +23,11 @@
 
 # Hackingtool Menu 🧰
 
-![](https://github.com/Z4nzu/hackingtool/blob/master/images/A00.png)
-![](https://github.com/Z4nzu/hackingtool/blob/master/images/A0.png)
-![](https://github.com/Z4nzu/hackingtool/blob/master/images/A1.png)
-![](https://github.com/Z4nzu/hackingtool/blob/master/images/A2.png)
-![](https://github.com/Z4nzu/hackingtool/blob/master/images/A4.png)
+![](https://github.com/Oneexploit/hackingtool/images/A00.png)
+![](https://github.com/Oneexploit/hackingtool/images/A0.png)
+![](https://github.com/Oneexploit/hackingtool/images/A1.png)
+![](https://github.com/Oneexploit/hackingtool/images/A2.png)
+![](https://github.com/Oneexploit/hackingtool/images/A4.png)
 
 ## Installation guide for Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
 
